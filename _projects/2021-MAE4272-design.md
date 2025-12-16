@@ -3,7 +3,7 @@ layout: project
 title: MAE 4272 Design Project
 description: Advanced CAD Project
 technologies: [Autodesk Fusion]
-image: /assets/images/radio-machine-cad.jpg
+image: /assets/images/turbine.jpg
 ---
 # Wind Turbine Blade Design Project (MAE 4272)
 
@@ -70,3 +70,4 @@ Despite the lower-than-expected efficiency, the experimental data provided valua
 My contributions to this project spanned modeling, validation, and experimentation. I assisted in developing and implementing the BEM-based aerodynamic model in MATLAB, including incorporating airfoil performance data and tip loss corrections. I also contributed to structural and torque-related checks to ensure the blade operated well within material and mechanical limits during testing.
 
 During experimental validation, I participated directly in wind tunnel setup, execution of torque sweep testing, and data collection. I helped process the resulting data to generate power curves and performance metrics, and contributed to interpreting discrepancies between predicted and measured results. Through this project, I gained hands-on experience bridging aerodynamic theory with experimental reality and developed a deeper appreciation for the iterative nature of engineering design.
+
