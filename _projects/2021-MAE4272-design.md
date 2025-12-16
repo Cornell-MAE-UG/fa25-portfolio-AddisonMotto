@@ -4,7 +4,7 @@ title: MAE 4272 Design Project
 description: Advanced CAD Project
 technologies: [Autodesk Fusion]
 image: /assets/images/turbine.jpg
----
+Project:
 # Wind Turbine Blade Design Project (MAE 4272)
 
 <figure>
