@@ -8,18 +8,10 @@ image: /assets/images/Windmill_finished.JPG
 
 <div style="max-width: 1200px; margin: 0 auto;">
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 40px; margin: 30px 0 50px 0; flex-wrap: wrap;">
-
-<div style="flex: 0 1 420px; text-align: center;">
-  <img src="{{ "/assets/images/Windmill_finished.JPG" | relative_url }}" style="width: 100%; max-width: 420px; border-radius: 10px; border: 2px solid #222; display: block; margin: 0 auto;">
-</div>
-
-<div style="flex: 0 1 500px; display: flex; align-items: center; justify-content: center; text-align: left;">
+<div style="margin: 30px 0 40px 0; text-align: left;">
   <p style="font-size: 1.15rem; line-height: 1.7; margin: 0;">
     During my internship at Creative Engineering LLC, I designed, fabricated, and installed an interactive wind turbine for an educational museum exhibit. Working with one other intern, I owned the full project from concept through installation, completing it on time for the exhibit opening.
   </p>
-</div>
-
 </div>
 
 <hr style="margin: 10px 0 35px 0;">
