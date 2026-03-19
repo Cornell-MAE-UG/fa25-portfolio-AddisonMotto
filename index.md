@@ -9,6 +9,10 @@ title: Addison Motto
 ![Profile Picture]({{ "assets/images/profilepic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am a senior Mechanical Engineering student at Cornell University and will soon begin a Master’s degree in Systems Engineering. My academic and professional experiences span design, testing, and manufacturing, where I have worked on hands-on, multidisciplinary engineering projects and internships that emphasize both technical rigor and real-world impact. I am particularly interested in how complex systems are designed, analyzed, and brought from concept to production. Outside of engineering, I enjoy running, skiing, and fishing, activities that reflect my appreciation for challenge, problem-solving, and the outdoors. 
+I am Addison Motto, a Mechanical Engineering senior at Cornell University and an early-admit Master of Engineering student in Systems Engineering. I am interested in designing and building complex mechanical systems and enjoy taking ideas from analysis through prototyping and testing.
+
+My experience includes hands-on engineering projects, research, and internships in design, manufacturing, and testing environments. I am especially interested in multidisciplinary problems that combine mechanical design, modeling, and real-world implementation.
+
+Outside of engineering, I enjoy running, skiing, fishing, and travel.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
