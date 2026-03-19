@@ -31,8 +31,8 @@ technologies: [SolidWorks, Machining]
 
 <div style="text-align: center; width: 100%;">
   <img src="{{ "/assets/images/Windmill_final_CAD.png" | relative_url }}"
-       style="width: 100%; max-width: 750px; border-radius: 12px; border: 2px solid #222;">
-  <p style="font-size: 13px; margin-top: 8px; color: #666;">Final CAD</p>
+     style="width: 100%; max-width: 750px; border-radius: 12px; border: 2px solid #222;">
+  <p style="font-size: 13px; margin-top: 8px; color: #666;">Final CAD model</p>
 </div>
 
 </div>
