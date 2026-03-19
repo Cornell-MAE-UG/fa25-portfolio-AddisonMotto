@@ -3,7 +3,7 @@ layout: project
 title: Interactive Windmill Exhibit
 description: Intern project at Creative Engineering LLC
 technologies: [SolidWorks, Machining]
-image: /assets/images/Windmill_finished.JPG
+
 ---
 
 <div style="max-width: 1200px; margin: 0 auto;">
@@ -50,6 +50,6 @@ Visitors power the turbine by spinning a large external hand wheel connected to 
 - Implemented a clutch mechanism to limit torque and reduce risk of injury  
 - Balanced mechanical function with exhibit aesthetics and manufacturability  
 
-**Technologies:** SolidWorks, Machining
+
 
 </div>
