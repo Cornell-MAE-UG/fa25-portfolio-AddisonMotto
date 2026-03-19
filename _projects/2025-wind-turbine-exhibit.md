@@ -6,21 +6,21 @@ technologies: [SolidWorks, Machining]
 image: /assets/images/Windmill_finished.JPG
 ---
 
-During my internship at Creative Engineering LLC, I designed, fabricated, and installed an interactive wind turbine for an educational museum exhibit. Working with one other intern, I owned the full project from concept through installation, completing it on time for the exhibit opening.
+<div style="max-width: 900px; margin: 0 auto;">
 
-**Technologies:** SolidWorks, Machining
+During my internship at Creative Engineering LLC, I designed, fabricated, and installed an interactive wind turbine for an educational museum exhibit. Working with one other intern, I owned the full project from concept through installation, completing it on time for the exhibit opening.
 
 ---
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 30px 0;">
+<div style="display: flex; flex-direction: column; gap: 20px; margin: 30px 0;">
 
 <div style="text-align: center;">
-<img src="{{ "/assets/images/Windmill_in_exhibit.png" | relative_url }}" style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px;">
+<img src="{{ "/assets/images/Windmill_in_exhibit.png" | relative_url }}" style="width: 100%; border-radius: 10px;">
 <p style="font-size: 13px; margin-top: 6px; color: #666;">Exhibit during opening</p>
 </div>
 
 <div style="text-align: center;">
-<img src="{{ "/assets/images/Windmill_final_CAD.PNG" | relative_url }}" style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px;">
+<img src="{{ "/assets/images/Windmill_final_CAD.PNG" | relative_url }}" style="width: 100%; border-radius: 10px;">
 <p style="font-size: 13px; margin-top: 6px; color: #666;">Final CAD model</p>
 </div>
 
@@ -37,3 +37,7 @@ Visitors power the turbine by spinning a large external hand wheel connected to 
 - Concealed all electronics and wiring within the structure
 - Developed a gearbox with tolerances for smooth, reliable operation
 - Implemented a clutch mechanism to limit torque and prevent injury
+
+**Technologies:** SolidWorks, Machining
+
+</div>
