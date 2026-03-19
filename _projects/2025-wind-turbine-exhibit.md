@@ -3,7 +3,7 @@ layout: project
 title: Interactive Windmill Exhibit
 description: My intern project Creative Engineering
 technologies: [SolidWorks, Machining]
-image: /assets/images/Windmill_finished.jpg
+image: /assets/images/Windmill_finished.JPG
 ---
 ## Interactive Wind Turbine Exhibit
 
@@ -17,7 +17,7 @@ During my internship at Creative Engineering LLC last summer, I was given an int
 </div>
 
 <div style="text-align: center;">
-<img src="/assets/images/Windmill_CAD_final.png" style="width: 420px; border-radius: 12px;">
+<img src="/assets/images/Windmill_final_CAD.PNG" style="width: 420px; border-radius: 12px;">
 <p style="font-size: 14px; margin-top: 8px;">Image of final CAD</p>
 </div>
 
