@@ -30,7 +30,7 @@ technologies: [SolidWorks, Machining]
 </div>
 
 <div style="text-align: center; width: 100%;">
-  <img src="{{ "/assets/images/Windmill_final_CAD.PNG" | relative_url }}"
+  <img src="{{ "/assets/images/Windmill_final_CAD.png" | relative_url }}"
        style="width: 100%; max-width: 750px; border-radius: 12px; border: 2px solid #222;">
   <p style="font-size: 13px; margin-top: 8px; color: #666;">Final CAD model</p>
 </div>
@@ -39,7 +39,7 @@ technologies: [SolidWorks, Machining]
 
 <hr style="margin: 10px 0 35px 0;">
 
-## System Description
+## System Description ##
 
 Visitors power the turbine by spinning a large external hand wheel connected to a concealed drivetrain. Rotational input passes through a custom gearbox to drive the turbine blades, creating a clear cause-and-effect learning experience for museum visitors.
 
