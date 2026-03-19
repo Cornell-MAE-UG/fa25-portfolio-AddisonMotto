@@ -3,7 +3,7 @@ layout: default
 title: Addison Motto - Resume
 permalink: /Resume/
 ---
-## Curriculum Vitae
+## Resume
 <iframe 
   src="{{ site.baseurl }}/assets/Resume.pdf"
   style="
