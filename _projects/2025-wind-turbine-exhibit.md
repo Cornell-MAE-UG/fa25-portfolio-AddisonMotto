@@ -15,7 +15,7 @@ technologies: [SolidWorks, Machining]
 
 <div style="margin: 25px 0 45px 0;">
   <p style="font-size: 1.18rem; line-height: 1.75;">
-    During my internship at Creative Engineering LLC, I designed, fabricated, and installed an interactive wind turbine for an educational museum exhibit. Working with one other intern, I owned the full project from concept through installation, completing it on time for the exhibit opening.
+    During my internship at Creative Engineering LLC, I designed, fabricated, and installed an interactive wind turbine for an educational museum exhibit. Working with one other intern, we owned the full project from concept through installation, completing it on time for the exhibit opening.
   </p>
 </div>
 
@@ -31,7 +31,7 @@ technologies: [SolidWorks, Machining]
 
 <div style="text-align: center; width: 100%;">
   <img src="{{ "/assets/images/Windmill_final_CAD.png" | relative_url }}"
-       style="width: 100%; max-width: 750px; border-radius: 12px; border: 2px solid #222;">
+     style="width: 100%; max-width: 750px; border-radius: 12px; border: 2px solid #222;">
   <p style="font-size: 13px; margin-top: 8px; color: #666;">Final CAD model</p>
 </div>
 
@@ -39,17 +39,22 @@ technologies: [SolidWorks, Machining]
 
 <hr style="margin: 10px 0 35px 0;">
 
-## System Description ##
+<h2 style="margin-top: 0;">System Description</h2>
 
-Visitors power the turbine by spinning a large external hand wheel connected to a concealed drivetrain. Rotational input passes through a custom gearbox to drive the turbine blades, creating a clear cause-and-effect learning experience for museum visitors.
+<p>
+  Visitors power the turbine by spinning a large external hand wheel connected to a concealed drivetrain. Rotational input passes through a custom gearbox to drive the turbine blades, creating a clear cause-and-effect learning experience for museum visitors.
+</p>
 
-**Key engineering challenges:**
-- Designed the tower and nacelle for durability under continuous public use  
-- Concealed electronics and wiring within the structure  
-- Developed a gearbox with proper tolerancing for smooth, reliable operation  
-- Implemented a clutch mechanism to limit torque and reduce risk of injury  
-- Balanced mechanical function with exhibit aesthetics and manufacturability  
+<h3>Key engineering challenges</h3>
 
+<ul>
+  <li>Designed the tower and nacelle for durability under continuous public use</li>
+  <li>Concealed electronics and wiring within the structure</li>
+  <li>Developed a gearbox with proper tolerancing for smooth, reliable operation</li>
+  <li>Implemented a clutch mechanism to limit torque and reduce risk of injury</li>
+  <li>Balanced mechanical function with exhibit aesthetics and manufacturability</li>
+</ul>
 
+<p><strong>Technologies:</strong> SolidWorks, Machining</p>
 
 </div>
