@@ -29,20 +29,13 @@ technologies: [SolidWorks, Machining]
   <p style="font-size: 13px; margin-top: 8px; color: #666;">Exhibit during opening</p>
 </div>
 
-<div style="text-align: center; width: 100%;">
-  <img src="{{ "/assets/images/Windmill_final_CAD.png" | relative_url }}"
-     style="width: 100%; max-width: 750px; border-radius: 12px; border: 2px solid #222;">
-  <p style="font-size: 13px; margin-top: 8px; color: #666;">Final CAD model</p>
-</div>
-
-</div>
 
 <hr style="margin: 10px 0 35px 0;">
 
 <h2 style="margin-top: 0;">System Description</h2>
 
 <p>
-  Visitors power the turbine by spinning a large external hand wheel connected to a concealed drivetrain. Rotational input passes through a custom gearbox to drive the turbine blades, creating a clear cause-and-effect learning experience for museum visitors.
+  Visitors actuate the turbine by spinning a large external hand wheel that meausre rotaional input. Then, using a conceled stepper motor, a gearbox and the turbine blades spin creating a interactive experience for museum visitors.
 </p>
 
 <h3>Key engineering challenges</h3>
@@ -53,6 +46,8 @@ technologies: [SolidWorks, Machining]
   <li>Developed a gearbox with proper tolerancing for smooth, reliable operation</li>
   <li>Implemented a clutch mechanism to limit torque and reduce risk of injury</li>
   <li>Balanced mechanical function with exhibit aesthetics and manufacturability</li>
+  <li>A strict 6 week deadline had to be hit</li>
+  <li>A strict budget must be met</li>
 </ul>
 
 
