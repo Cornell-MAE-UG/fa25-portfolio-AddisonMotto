@@ -30,7 +30,7 @@ image: /assets/images/Windmill_finished.JPG
 </div>
 
 
-<hr style="margin: 10px 0 35px 0;">
+<hr style="margin: 10px 0 15px 0;">
 
 <h2 style="margin-top: 0;">System Description</h2>
 
