@@ -62,3 +62,21 @@ technologies: [SolidWorks, Machining]
 
 
 </div>
+<h2 style="margin-top: 10px;">Design Process</h2>
+
+<p>
+The wind turbine concept was developed following initial meetings with customers to understand design goals, functional requirements, and desired visitor interaction. Early concepts were informed by visual references from existing turbine designs and refined through iterative CAD modeling and internal prototyping. After multiple design reviews with senior engineers and customer stakeholders, the team converged on a manufacturable and robust final configuration that met both educational and aesthetic objectives.
+</p>
+
+<div style="text-align: center; width: 100%; margin: 40px 0 10px 0;">
+  <iframe
+    src="https://www.youtube.com/embed/7sl5dzSsGrk"
+    title="Windmill Design / Build Video"
+    style="width: 100%; max-width: 750px; aspect-ratio: 16 / 9; border-radius: 12px; border: 2px solid #222;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+  <p style="font-size: 13px; margin-top: 8px; color: #666;">Additional demonstration video</p>
+</div>
+
+
