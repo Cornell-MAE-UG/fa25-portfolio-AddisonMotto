@@ -80,3 +80,24 @@ The wind turbine concept was developed following initial meetings with customers
 </div>
 
 
+<h2 style="margin-top: 10px;">Manufacturing</h2>
+
+<p>
+Components were produced using a combination of in-house 3D printing, ordered off-the-shelf hardware, and custom machined parts fabricated by an external machine shop. Detailed manufacturing drawings were created to communicate tolerances and assembly requirements, enabling efficient fabrication and reliable system integration.
+</p>
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 40px; margin: 30px 0 40px 0;">
+
+  <div style="text-align: center; width: 100%;">
+    <img src="{{ "/assets/images/drawing1.png" | relative_url }}"
+         style="width: 100%; max-width: 750px; border-radius: 12px; border: 2px solid #222;">
+    <p style="font-size: 13px; margin-top: 8px; color: #666;">Machined part manufacturing drawing</p>
+  </div>
+
+  <div style="text-align: center; width: 100%;">
+    <img src="{{ "/assets/images/3Dprint.png" | relative_url }}"
+         style="width: 100%; max-width: 750px; border-radius: 12px; border: 2px solid #222;">
+    <p style="font-size: 13px; margin-top: 8px; color: #666;">3D printed components used in final assembly</p>
+  </div>
+
+</div>
