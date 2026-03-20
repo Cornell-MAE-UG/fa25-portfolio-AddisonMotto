@@ -3,7 +3,6 @@ layout: project
 title: Interactive Windmill Exhibit
 description: Intern project at Creative Engineering LLC
 technologies: [SolidWorks, Machining]
-image: /assets/images/turbine.jpg
 ---
 
 <div style="max-width: 1200px; margin: 0 auto;">
