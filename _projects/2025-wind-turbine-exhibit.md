@@ -37,6 +37,16 @@ technologies: [SolidWorks, Machining]
 <p>
   Visitors actuate the turbine by spinning a large external hand wheel that meausre rotaional input. Then, using a conceled stepper motor, a gearbox and the turbine blades spin creating a interactive experience for museum visitors.
 </p>
+<div style="text-align: center; width: 100%; margin: 30px 0 10px 0;">
+  <iframe
+    src="https://www.youtube.com/embed/lKFuuqaJqzk"
+    title="Interactive Windmill Exhibit Video"
+    style="width: 100%; max-width: 750px; aspect-ratio: 9 / 16; border-radius: 12px; border: 2px solid #222;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+  <p style="font-size: 13px; margin-top: 8px; color: #666;">Demonstration video</p>
+</div>
 
 <h3>Key engineering challenges</h3>
 
