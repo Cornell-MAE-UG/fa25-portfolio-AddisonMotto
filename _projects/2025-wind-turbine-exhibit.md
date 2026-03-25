@@ -78,9 +78,6 @@ The wind turbine concept was developed following initial meetings with customers
   </iframe>
   <p style="font-size: 13px; margin-top: 8px; color: #666;">Additional demonstration video</p>
 </div>
-
-
-<h2 style="margin-top: 10px;">Manufacturing</h2>
 <hr style="margin: 60px 0;">
 
 <h2 style="text-align: center; margin-bottom: 30px;">CAD Design</h2>
@@ -104,6 +101,9 @@ The wind turbine concept was developed following initial meetings with customers
   </div>
 
 </div>
+
+<h2 style="margin-top: 10px;">Manufacturing</h2>
+
 <p>
 Components were produced using a combination of in-house 3D printing, ordered off-the-shelf hardware, and custom machined parts fabricated by an external machine shop. Detailed manufacturing drawings were created to communicate tolerances and assembly requirements, enabling efficient fabrication and reliable system integration.
 </p>
