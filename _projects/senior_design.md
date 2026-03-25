@@ -2,13 +2,13 @@
 layout: project
 title: Senior Design Project
 description: Class project 
-technologies: [MATLAB, python]
+technologies: [MATLAB, ANSYS CFD]
 image: /assets/images/senior_design_1.png
 ---
 
 ## Aerodynamic Blade Design Project
 
-In this project, I developed a complete aerodynamic design and analysis workflow for a horizontal-axis wind turbine blade. Using CFD simulations in ANSYS Fluent, wind-tunnel data interpretation, and a MATLAB Blade Element Momentum (BEM) model, I evaluated baseline blade performance and designed an optimized geometry with improved efficiency at the target operating condition. The work involved generating chord and twist distributions based on optimal rotor theory, validating results across analytical, numerical, and experimental methods, and quantifying performance improvements through power-coefficient curves and Weibull-weighted annual energy production estimates. :contentReference[oaicite:0]{index=0}
+In this project, I developed a complete aerodynamic design and analysis workflow for a horizontal-axis wind turbine blade. Using CFD simulations in ANSYS Fluent, wind-tunnel data interpretation, and a MATLAB Blade Element Momentum (BEM) model, I evaluated baseline blade performance and designed an optimized geometry with improved efficiency at the target operating condition. The work involved generating chord and twist distributions based on optimal rotor theory, validating results across analytical, numerical, and experimental methods, and quantifying performance improvements through power-coefficient curves and Weibull-weighted annual energy production estimates. 
 
 <h2 style="margin-top: 40px;">Performance & Blade Geometry Results</h2>
 
