@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Interactive Windmill Exhibit
+title: Interactive Wind Turbine Exhibit
 description: Intern project at Creative Engineering LLC
 technologies: [SolidWorks, GD&T, Machining, DFM, DFA]
 image: /assets/images/Windmill_finished.JPG
@@ -30,14 +30,14 @@ image: /assets/images/Windmill_finished.JPG
 </div>
 
 
-<hr style="margin: 10px 0 15px 0;">
+<hr style="margin: 10px 0 10px 0;">
 
 <h2 style="margin-top: 0;">System Description</h2>
 
 <p>
   Visitors actuate the turbine by spinning a large external hand wheel that meausre rotaional input. Then, using a conceled stepper motor, a gearbox and the turbine blades spin creating a interactive experience for museum visitors.
 </p>
-<div style="text-align: center; width: 100%; margin: 30px 0 13px 0;">
+<div style="text-align: center; width: 100%; margin: 20px 0 13px 0;">
   <iframe
     src="https://www.youtube.com/embed/lKFuuqaJqzk"
     title="Interactive Windmill Exhibit Video"
@@ -150,3 +150,4 @@ Final assembly of the exhibit was completed primarily in-house, where components
   </div>
 
 </div>
+

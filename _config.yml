@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Addison Motto
 description              : Addison Motto - Projects and CV 
-baseurl                  : "/fa25-portfolio-AddisonMotto" # Set this to your repo name 
+baseurl                  : "/AddisonMotto" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
