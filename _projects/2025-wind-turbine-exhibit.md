@@ -81,7 +81,29 @@ The wind turbine concept was developed following initial meetings with customers
 
 
 <h2 style="margin-top: 10px;">Manufacturing</h2>
+<hr style="margin: 60px 0;">
 
+<h2 style="text-align: center; margin-bottom: 30px;">CAD Design</h2>
+
+<div style="display: flex; flex-direction: column; gap: 40px; align-items: center;">
+
+  <div style="text-align: center;">
+    <img src="{{ "/assets/images/cadphoto1.png" | relative_url }}"
+         style="width: 100%; max-width: 900px; border-radius: 12px; border: 2px solid #111;">
+    <p style="font-size: 13px; margin-top: 8px; color: #666;">
+      Full CAD assembly of the interactive wind turbine exhibit
+    </p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="{{ "/assets/images/cadphoto2.png" | relative_url }}"
+         style="width: 100%; max-width: 900px; border-radius: 12px; border: 2px solid #111;">
+    <p style="font-size: 13px; margin-top: 8px; color: #666;">
+      Internal gearbox design used to transmit visitor input to the turbine blades
+    </p>
+  </div>
+
+</div>
 <p>
 Components were produced using a combination of in-house 3D printing, ordered off-the-shelf hardware, and custom machined parts fabricated by an external machine shop. Detailed manufacturing drawings were created to communicate tolerances and assembly requirements, enabling efficient fabrication and reliable system integration.
 </p>
@@ -98,6 +120,33 @@ Components were produced using a combination of in-house 3D printing, ordered of
     <img src="{{ "/assets/images/3Dprint.png" | relative_url }}"
          style="width: 100%; max-width: 750px; border-radius: 12px; border: 2px solid #222;">
     <p style="font-size: 13px; margin-top: 8px; color: #666;">3D printed components used in final assembly</p>
+  </div>
+
+</div>
+<hr style="margin: 60px 0;">
+
+<h2 style="text-align: center; margin-bottom: 20px;">Assembly</h2>
+
+<p style="max-width: 900px; margin: 0 auto 30px auto; text-align: center;">
+Final assembly of the exhibit was completed primarily in-house, where components were fit, aligned, and tested as a full system. Painted parts were sent to a professional auto-body shop to achieve a durable, high-quality finish suitable for public use. Throughout assembly we resolved several tolerancing and fit-up challenges, ultimately delivering a fully functional exhibit to the customer on schedule.
+</p>
+
+<div style="display: flex; flex-direction: column; gap: 40px; align-items: center;">
+
+  <div style="text-align: center;">
+    <img src="{{ "/assets/images/assembly1.png" | relative_url }}"
+         style="width: 100%; max-width: 900px; border-radius: 12px; border: 2px solid #111;">
+    <p style="font-size: 13px; margin-top: 8px; color: #666;">
+      On-site assembly and integration of the wind turbine exhibit
+    </p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="{{ "/assets/images/assembly2.png" | relative_url }}"
+         style="width: 100%; max-width: 900px; border-radius: 12px; border: 2px solid #111;">
+    <p style="font-size: 13px; margin-top: 8px; color: #666;">
+      Final gearbox assembly prior to installation
+    </p>
   </div>
 
 </div>
